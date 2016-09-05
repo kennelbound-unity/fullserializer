@@ -10,7 +10,8 @@
   "files": [
     "index.js",
     "Scripts",
-    "Assets"
+    "Assets",
+    "projenody.json"
   ],
   "author": "jacobdufault",
   "license": "MIT",

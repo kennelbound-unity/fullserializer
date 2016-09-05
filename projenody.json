@@ -1,0 +1,7 @@
+{
+  "name": "unity-fullserializer",
+  "assetsFolder": "Assets/FullSerializer/Source",
+  "targetFolder": "/unity-fullserializer",
+  "applicationPackage": false,
+  "pluginPackage": false
+}
